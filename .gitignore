@@ -1,3 +1,6 @@
+.venv_diagram_as_code/
+test.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
